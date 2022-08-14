@@ -1,5 +1,5 @@
 #! /bin/bash
 
-whomai ;
+whoami ;
 pwd ;
 echo "hello-world" 
