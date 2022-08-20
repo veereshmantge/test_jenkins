@@ -3,3 +3,5 @@
 whoami ;
 pwd ;
 echo "hello-world" 
+
+echo "pipeline-complete" 
