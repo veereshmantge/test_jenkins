@@ -4,4 +4,4 @@ whoami ;
 pwd ;
 echo "hello-world" 
 
-echo "pipeline-complete" 
+echo "complete" 
