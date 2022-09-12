@@ -2,9 +2,9 @@ pipeline {
 
     environment { 
 
-        registry = "myawspk/myrepo" 
+        registry = "veeereshmantgi/jenkins" 
 
-        registryCredential = 'dockerhub_id' 
+        registryCredential = 'besant' 
 
         dockerImage = '' 
 
